@@ -7,8 +7,8 @@
 body {
     position: relative;
     background-color: lightblue;
-    margin: 60px;
-    padding: 50px;
+    margin-top: 50%;
+    margin-bottom: 50%;
     max-height: fit-content;      
 }
 
