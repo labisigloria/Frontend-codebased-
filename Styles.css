@@ -8,8 +8,7 @@ body {
     position: relative;
     background-color: lightblue;
     margin-top: 50%;
-    margin-bottom: 50%;
-    max-height: fit-content;      
+    margin-bottom: 50%;    
 }
 
 .box {
